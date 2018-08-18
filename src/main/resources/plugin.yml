@@ -1,0 +1,6 @@
+name: OcMythicItems
+main: vip.ourcraft.mcserverplugins.ocmythicitems.OcMythicItems
+author: July_ss
+version: 1.0.0
+commands:
+  omi:
